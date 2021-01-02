@@ -1,12 +1,8 @@
 h1{text-align: center;}
 p{text-align: left;}
 div{text-align: left;}
-
+body{background-color: #011aff;}
 video{position: absolute; height: 100%; width: 100%; margin: 0; padding: 0; top: 0; bottom:0; right: 0; left: 0;}
-
-<!--       body { -->
-<!--       background-color: #000000; -->
-<!--       } -->
 
 <!--     <div style="visibility:hidden"> -->
 <!--       <audio autoplay loop id="myAudio"> -->
